@@ -1,0 +1,17 @@
+{
+  "name": "pokedex",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~4.15.2",
+    "handlebars": "~4.0.6",
+    "express-handlebars": "~3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "'hello worl'"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
